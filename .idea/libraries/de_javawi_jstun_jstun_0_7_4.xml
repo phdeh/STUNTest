@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="de.javawi.jstun:jstun:0.7.4" type="repository">
+    <properties maven-id="de.javawi.jstun:jstun:0.7.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jstun-0.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
